@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "669094BEE44D5DE4E8AB9636C1F69C9725C5EDA4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "669094BEE44D5DE4E8AB9636C1F69C9725C5EDA4" : 9223372036854775807,
+    "2C99D5DC32CDDD37893B49731C490872B412525B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E4AD39FF-5E87-4E37-B47E-3FBBC12DE6FE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "669094BEE44D5DE4E8AB9636C1F69C9725C5EDA4" : "Apple\/",
+    "2C99D5DC32CDDD37893B49731C490872B412525B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "apple5",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "apple5.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nieying213\/Apple.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C99D5DC32CDDD37893B49731C490872B412525B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nieying213\/Apple.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "669094BEE44D5DE4E8AB9636C1F69C9725C5EDA4"
+    }
+  ]
+}
