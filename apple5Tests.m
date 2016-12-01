@@ -13,10 +13,13 @@
 @endhhhhhhhhhhhhhhhhhhhhhhhh
 11111111111111111s
 
+
+
 @implementation apple5Tests
 
 - (void)setUp {
     [super setUp];
+    nslog;
     // Put setup code here. This method is called before the invocation of each test method in the class.
 }
 
